@@ -1,0 +1,3 @@
+#!/bin/bash
+
+curl -o raw/char_freqs_nowac-ansi.txt https://tekstlab.uio.no/nowac/char_freqs_nowac-ansi.txt 
